@@ -52,8 +52,8 @@ h1 {
 #img {
   width: 100%;
   height: 100%;
-  -webkit-animation: slide-top 0.5s ease-in-out reverse ;
-  animation: slide-top 0.5s ease-in-out reverse ;
+  -webkit-animation: slide-top 0.5s ease-in-out 2 reverse ;
+  animation: slide-top 0.5s ease-in-out 2 reverse ;
   border-radius: 4px;
 }
 
